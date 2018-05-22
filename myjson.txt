@@ -1,0 +1,23 @@
+
+
+[{"first_name":"Ravi",
+  "last_name":"patel",
+  "photo":"https",
+  "department":"it",
+ "research_area":["cloud","Ai"],
+"contact_details":["985958","abc@gmail"] },
+
+{"first_name":"Ravi",
+  "last_name":"patel",
+  "photo":"https",
+  "department":"it",
+ "research_area":["cloud","Ai"],
+"contact_details":["985958","abc@gmail"] },
+ 
+ {"first_name":"Ravi",
+  "last_name":"patel",
+  "photo":"https",
+  "department":"it",
+ "research_area":["cloud","Ai"],
+"contact_details":["985958","abc@gmail"] }
+  ]
